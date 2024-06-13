@@ -1,1 +1,0 @@
-# terraform-apigateway-lambda-dynamo
